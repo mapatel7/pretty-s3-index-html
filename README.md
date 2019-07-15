@@ -1,11 +1,12 @@
 Pretty S3 index.html
 ====================
 
-⚠**Maintenance note**⚠: this project is archived and unmaintained. For a more up-to-date version, you may check out the [various forks](https://github.com/nolanlawson/pretty-s3-index-html/issues/6).
+This project is a fork from (https://github.com/nolanlawson/pretty-s3-index-html).
 
 Author
 -------
 Nolan Lawson
+Mithil Patel
 
 License
 --------
@@ -15,7 +16,7 @@ Summary
 ---------
 
 A Bootstrap-y, pretty index.html designed to be placed at the root of a public Amazon S3 bucket, which
-you just want to use for displaying a list of files.
+you just want to use for displaying a list of files. I have added some styling and adjusted the URL according to my requirements.
 
 Usage
 -------
